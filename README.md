@@ -6,7 +6,8 @@ How to install
 ------------
 You would need to enter the following commands on Unix based  OSes:
 ```
-sudo curl https://raw.githubusercontent.com/itachi-19/imgscrapy/master/img.py -o /usr/local/bin/img;sudo chmod a+r /usr/local/bin/img
+sudo curl https://raw.githubusercontent.com/itachi-19/imgscrapy/master/img.py -o /usr/local/bin/img
+sudo chmod a+r /usr/local/bin/img
 ```
 Usage
 ------------
